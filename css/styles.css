@@ -11,12 +11,12 @@
 }
 
 body {
-  font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
   color: var(--text-color);
 }
 
 .header-logo-web {
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.33;
@@ -27,6 +27,7 @@ body {
   color: var(--logo-web-color);
 }
 .header-logo {
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.33;
@@ -50,11 +51,6 @@ body {
 .address-mail:hover,
 .address-mail:focus {
   color: #404bbf;
-}
-
-.header-link:hover,
-.header-link:focus {
-  text-decoration: underline;
 }
 
 .address-item {
